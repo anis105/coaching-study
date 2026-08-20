@@ -1,0 +1,19 @@
+# Source materials (copyrighted — never commit)
+Handbook of Sport Coaching Research.pdf
+Handbook_of_Sport_Coaching_Research_中文忠实完整全译本.docx
+
+# Intermediate work files
+work/
+*.DS_Store
+
+# Dependencies
+node_modules/
+dist/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
